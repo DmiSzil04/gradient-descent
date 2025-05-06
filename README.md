@@ -1,5 +1,5 @@
 # gradient-descent
-Homework №4: Implementation of the gradient descent algorithm for functions of one and two variables ()
+Homework №4: Implementation of the gradient descent algorithm for functions of one and two variables (gradientnyj_spusk_1_param.ipynb)
 
 Homework №5: Implementation of the gradient descent algorithm for a regression model. ()
 
