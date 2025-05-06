@@ -1,5 +1,7 @@
 # gradient-descent
-Implementation of the gradient descent algorithm for functions of one and two variables
+Homework №4: Implementation of the gradient descent algorithm for functions of one and two variables ()
+
+Homework №5: Implementation of the gradient descent algorithm for a regression model. ()
 
 Homeworks №4, №5
 
